@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+nav_order: 1
+---
+
 # PaperCraftHouses Assembly Instructions
 
 Welcome to the official assembly instructions site for [PaperCraftHouses](https://www.etsy.com/shop/PaperCraftHouses) on Etsy.

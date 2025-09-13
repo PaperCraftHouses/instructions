@@ -1,5 +1,6 @@
-theme: minima
-title: PaperCraftHouses Assembly Instructions
+remote_theme: just-the-docs/just-the-docs
+title: PaperCraftHouses
+logo: "/images/logo.jpg"
 description: Official assembly instructions for PaperCraftHouses paper craft models
 author: PaperCraftHouses
 show_downloads: false
@@ -8,6 +9,7 @@ google_analytics:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 defaults:
   - scope:
@@ -16,6 +18,24 @@ defaults:
       layout: default
 
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+
+# Just the Docs theme settings
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+aux_links:
+  "Visit our Etsy Shop":
+    - "https://www.etsy.com/shop/PaperCraftHouses"
+
+footer_content: "Copyright &copy; 2025 PaperCraftHouses. All rights reserved."
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y"

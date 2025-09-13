@@ -1,3 +1,10 @@
+---
+layout: default
+title: Halloween Church
+parent: Home
+nav_order: 2
+---
+
 # Halloween Church Paper House Assembly Instructions
 
 ## Step 1: Prepare the main body
