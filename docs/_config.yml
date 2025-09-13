@@ -1,0 +1,21 @@
+theme: minima
+title: PaperCraftHouses Assembly Instructions
+description: Official assembly instructions for PaperCraftHouses paper craft models
+author: PaperCraftHouses
+show_downloads: false
+google_analytics:
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
