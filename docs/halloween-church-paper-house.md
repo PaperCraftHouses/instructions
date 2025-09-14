@@ -44,33 +44,43 @@ nav_order: 2
 ![Step 3-3](images/halloween-church-paper-house/17577223206150.jpg)
 ![Step 3-4](images/halloween-church-paper-house/17577223369020.jpg)
 
-## Step 4: Assemble the tower
+## Step 4: Assemble the tower top
 
-1. To make the cone top, fold along the scored lines and connect the tabs to form a triangle-shaped cone
-2. Take the rectangular tower part and fold it along the lines as well
-3. Insert the cone into the rectangular base, aligning the tabs and locking them in place
+1. To make the upper cone, fold along all the scored lines for the entire cone piece
+2. Insert the tabs into the slots - it holds well on its own
+3. Take the second piece and fold away from you along the scored lines as well
+4. Secure with the tabs
+5. You can leave the tower like this, or add another detail
+Place the rectangular piece on top of the cone - it fits perfectly
 
-![Step 4-1](images/halloween-church-paper-house/17577223661591.jpg)
-![Step 4-2](images/halloween-church-paper-house/17577223803961.jpg)
-![Step 4-3](images/halloween-church-paper-house/17577224019649.jpg)
-![Step 4-4](images/halloween-church-paper-house/17577224186957.jpg)
-![Step 4-5](images/halloween-church-paper-house/17577224455703.jpg)
+
+![](images/halloween-church-paper-house/17578852517376.jpg)
+![](images/halloween-church-paper-house/17578852792389.jpg)
+![](images/halloween-church-paper-house/17578852919891.jpg)
+
 
 ## Step 5: Attach the tower
 
-1. Fold the tower walls along the lines and secure the tabs
-2. Place the cone top onto the tower and fold the tabs inside (you can add glue for extra hold)
+1. Fold each part of the tower along the scored lines, away from you
+Secure with the locking connections
+2. Place the cone top onto the tower base so the tabs go into the slots
 3. Insert the tower into the special cut-out on the church body
 
-![Step 5-1](images/halloween-church-paper-house/17577224625267.jpg)
-![Step 5-2](images/halloween-church-paper-house/17577224726027.jpg)
-![Step 5-3](images/halloween-church-paper-house/17577225972005.jpg)
-![Step 5-4](images/halloween-church-paper-house/17577226166668.jpg)
-![Step 5-5](images/halloween-church-paper-house/17577226371672.jpg)
+![](images/halloween-church-paper-house/17578853983744.jpg)
+![](images/halloween-church-paper-house/17578854139652.jpg)
+![](images/halloween-church-paper-house/17578854309443.jpg)
+
+
+
+![](images/halloween-church-paper-house/17578855424907.jpg)
+
 
 ## Step 6: Add the porch roof
 
 Find the small porch roof piece and insert it into the slots on the tower. Add glue if needed.
+![](images/halloween-church-paper-house/17578856164574.jpg)
+
+
 
 ![Step 6-1](images/halloween-church-paper-house/17577226596817.jpg)
 ![Step 6-2](images/halloween-church-paper-house/17577226796322.jpg)
